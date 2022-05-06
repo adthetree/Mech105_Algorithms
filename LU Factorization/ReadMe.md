@@ -1,4 +1,4 @@
-# LU Factorization w/ partial Pivoting
+# LU Factorization w/ Partial Pivoting
 A MATLAB function which determines the LU Factorization of a square matrix using partial pivoting.
 
 The inputs required for the function are:
